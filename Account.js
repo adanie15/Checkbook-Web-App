@@ -6,7 +6,7 @@ const Account = ({ name, balance }) => {
             <h4>{name}</h4>
             <p>{balance}</p>
             <input type="text" placeholder="money"></input>
-            <button>Update money</button>
+            <button>Update my account</button>
         </div>
     );
 }
